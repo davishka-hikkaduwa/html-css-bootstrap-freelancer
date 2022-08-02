@@ -15,6 +15,31 @@
     color: #fff;
 }
 
+/* .dh-star-wing {
+    display: inline-block;
+    width: 2px;
+    height: 25%;
+    border: 1px solid #fff;
+    border-radius: 2px;
+}
+
+.dh-star::before,
+.dh-star::after {
+    content: '';
+    width: 2px;
+    height: 25%;
+    border: 1px solid #fff;
+    border-radius: 2px;
+    vertical-align: middle;
+} */
+
+
+
+.dh-star.black-border::after,
+.dh-star.black-border::before {
+    border: 1px solid #000;
+}
+
 
 /***** /UTILITIES *****/
 
