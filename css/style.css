@@ -46,7 +46,7 @@
 
 /***** SECTION start-bootstrap *****/
 #start-bootstrap img {
-    width: 200px;
+    max-width: 250px;
 }
 
 /***** /SECTION start-bootstrap *****/
